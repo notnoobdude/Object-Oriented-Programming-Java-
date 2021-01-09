@@ -1,9 +1,7 @@
-package LabExer2;
-/*
- * FABRO, DAN NINO I.			BSCpE2A_C1					OOP LabExer
- */
-import LabExer2.SavingsAccount;
-import LabExer2.PageLogin;
+package CoopManagement;
+
+import CoopManagement.SavingsAccount;
+import CoopManagement.PageLogin;
 
 public class CoopTransaction {
 	public static int numAccnt = 0;								//Number of accounts created and is initialized at zero.
