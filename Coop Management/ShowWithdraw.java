@@ -1,7 +1,4 @@
-package LabExer2;
-/*
- * FABRO, DAN NINO I.			BSCpE2A_C1					OOP LabExer
- */
+package CoopManagement;
 
 import java.awt.Color;
 import javax.swing.JFrame;
